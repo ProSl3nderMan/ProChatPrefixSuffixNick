@@ -1,0 +1,4 @@
+name: ProChatPrefixSuffix
+version: ${project.version}
+main: me.prosl3nderman.prochatprefixsuffix.ProChatPrefixSuffix
+depend: [Essentials,LuckPerms]
